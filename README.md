@@ -18,4 +18,4 @@
 ## Uso
 
 * Importar banco de dados
-* Servidor local Ex: Xampp
+* Usar um servidor web Apache e MYSQL exemplo xampp
