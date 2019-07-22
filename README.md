@@ -8,8 +8,8 @@
 
 * PHP orientado a objetos
 * Arquitetura MVC
-* URL amigavel
-* .htaccess
+* URL amigável
+* htaccess
 * Banco de dados MYSQL
 * Linguagem de consulta SQL
 * Bootstrap
